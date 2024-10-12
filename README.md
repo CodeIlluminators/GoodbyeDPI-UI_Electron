@@ -1,4 +1,6 @@
 # GoodbyeDPI UI
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCodeIlluminators%2FGoodbyeDPI-UI_Tauri.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCodeIlluminators%2FGoodbyeDPI-UI_Tauri?ref=badge_shield)
+
 
 Welcome to **GoodbyeDPI UI** — a user-friendly interface for managing the [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) and [Zapret](https://github.com/bol-van/zapret) projects. This handy tool makes it super easy to tweak DPI settings and run applications from the system tray.
 
@@ -61,3 +63,6 @@ This project is licensed under the Apache 2.0 License. You can view the full lic
     http://www.apache.org/licenses/LICENSE-2.0
 
 This software is distributed "AS IS", without any warranties or conditions of any kind. For more details, please refer to the full license text.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCodeIlluminators%2FGoodbyeDPI-UI_Tauri.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCodeIlluminators%2FGoodbyeDPI-UI_Tauri?ref=badge_large)
